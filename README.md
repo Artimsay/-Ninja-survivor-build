@@ -88,10 +88,6 @@ I designed and implemented the gameplay systems, programming, game logic, and ov
 * C#
 * 2D game development
 
-## Build
-
-Download and play the latest build from the **Releases** section.
-
 ## Portfolio Note
 
 This repository is published as a portfolio and demonstration project.
