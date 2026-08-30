@@ -1,0 +1,26 @@
+Copyright (c) 2026 Artimsay
+
+All Rights Reserved.
+
+This project, including the game build, source files created by the author,
+visual materials, and other original content, is the property of the author.
+
+The provided build is published for portfolio and demonstration purposes.
+
+You may:
+- download and run the game for personal evaluation;
+- record or show gameplay for review, educational, or portfolio-related purposes,
+  provided that the author and project are credited.
+
+You may not, without prior written permission from the author:
+- sell or commercially distribute the game;
+- re-upload or redistribute the game build;
+- modify and redistribute the game;
+- extract, reuse, or redistribute the author's original assets or code;
+- claim the project or its original content as your own.
+
+Third-party assets, libraries, fonts, music, and other external materials
+remain subject to their respective licenses and are not covered by this notice.
+
+For permission requests, please contact the author through the contact
+information provided in the GitHub profile.
